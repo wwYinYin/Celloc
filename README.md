@@ -6,6 +6,8 @@ Accurate mapping between single-cell RNA sequencing (scRNA-seq) and low-resoluti
 ```
 pip install -r requirements.txt
 ```
-### Tutorial
-## Input files
-
+## Tutorial
+### Input files
+* A scRNA-seq data with annotated with cell types (.h5ad, .txt, .csv)
+* A ST data with spatial coordinates (.h5ad, .txt, .csv)
+* A matrix containing the estimated number of each cell type per spot (cell_type_number_estimate.csv)
