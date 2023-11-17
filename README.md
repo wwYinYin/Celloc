@@ -15,3 +15,11 @@ Celloc can (1) fill ST spots with suitable number of cells from scRNA-seq to enh
   ```
   predict_celltype_eachspot.ipynb
   ```
+### Regular single-cell-to-spot mapping
+  ```
+  Regular_Mapping_SC2ST.ipynb
+  ```
+### Greedy single-cell-to-spot mapping
+  ```
+  Greedy_Mapping_SC2ST.ipynb
+  ```
