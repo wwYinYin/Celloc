@@ -6,4 +6,6 @@ Accurate mapping between single-cell RNA sequencing (scRNA-seq) and low-resoluti
 ```
 pip install -r requirements.txt
 ```
+### Tutorial
+## Input files
 
