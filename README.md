@@ -11,10 +11,7 @@ Celloc can (1) fill ST spots with suitable number of cells from scRNA-seq to enh
 ### Input files
 * A scRNA-seq data with annotated with cell types (.h5ad, .txt, .csv)
 * A ST data with spatial coordinates (.h5ad, .txt, .csv)
-* A matrix containing the estimated number of each cell type per spot (cell_type_number_estimate.csv). First, we used a deconvolution tool [SpatialcoGCN](https://github.com/wwYinYin/SpatialcoGCN) to obtain deconvolution result (decon_result.h5ad, decon_result.txt). Then generate cell_type_number_estimate.csv based on the following jupyter file.
-  ```
-  predict_celltype_eachspot.ipynb
-  ```
+
 ### Regular single-cell-to-spot mapping
   ```
   Regular_Mapping_SC2ST.ipynb
