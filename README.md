@@ -33,4 +33,8 @@ Celloc can (1) fill ST spots with suitable number of cells from scRNA-seq to enh
   ```
 
 ## Results visualization
-The visualization code for simulated mouse cerebellum and hippocampus in Supplementary Figures 3 and 4 has been given at the end of 'Regular_Mapping_SC2ST.ipynb'.
+The visualization code for simulated mouse cerebellum and hippocampus in Supplementary Figures 3 and 4 has been given at the end of 'Regular_Mapping_SC2ST.ipynb'.  
+For other 10X Visium ST data mapping results visualization tutorials, refer to the following code:  
+  ```
+  10X_Visium_Visulization.ipynb
+  ```
