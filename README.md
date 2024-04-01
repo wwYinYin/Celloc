@@ -8,7 +8,12 @@ pip install -r requirements.txt
 ```
 ## Datasets
 All datasets used in our paper can be found in:
-* The simulated mouse cerebellum and hippocampus can be download from [Cerebellum](https://drive.google.com/file/d/1qfz2T8u3HRG4qdZc9qafcO4aCvjA91Rb/view?usp=share_link) and [Hippocampus](https://drive.google.com/file/d/1Jyd14n-ISc5lF65pnJWLhCCgSkpjtbsr/view?usp=share_link).
+* The simulated mouse cerebellum and hippocampus can be downloaded from [Cerebellum](https://drive.google.com/file/d/1qfz2T8u3HRG4qdZc9qafcO4aCvjA91Rb/view?usp=share_link) and [Hippocampus](https://drive.google.com/file/d/1Jyd14n-ISc5lF65pnJWLhCCgSkpjtbsr/view?usp=share_link).
+* The HER2+ breast cancer scRNA-seq data is downloaded from [HER2+ breast cancer](https://drive.google.com/file/d/1G8gK4MxCmRG4JZi588wloMsP8iZlQf_z/view?usp=share_link).
+* Two 10X Visium ST samples (ST sample1, ST sample2) are obtained from [ST sample1](https://www.10xgenomics.com/datasets/human-breast-cancer-ductal-carcinoma-in-situ-invasive-carcinoma-ffpe-1-standard-1-3-0) and [ST sample2](https://www.10xgenomics.com/datasets/human-breast-cancer-visium-fresh-frozen-whole-transcriptome-1-standard).
+* The DCIS datasets are obtained from [CellTrek](https://github.com/navinlabcode/CellTrek).
+* The scRNA-seq data of myocardial infarction is downloaded from [GSE129175](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE129175).
+* The ST data of myocardial infarction is downloaded from [GSE165857](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE165857).
 
 ## Tutorial
 Celloc can (1) fill ST spots with suitable number of cells from scRNA-seq to enhance the quality of ST data in terms of resolution and gene expression quantity (regular mapping); (2) assign the spatial location for every cell in scRNA-seq data to completely investigate the spatial pattern across the full scRNA-seq dataset (greedy mapping).
