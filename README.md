@@ -6,6 +6,10 @@ Accurate mapping between single-cell RNA sequencing (scRNA-seq) and low-resoluti
 ```
 pip install -r requirements.txt
 ```
+## Datasets
+All datasets used in our paper can be found in:
+
+
 ## Tutorial
 Celloc can (1) fill ST spots with suitable number of cells from scRNA-seq to enhance the quality of ST data in terms of resolution and gene expression quantity (regular mapping); (2) assign the spatial location for every cell in scRNA-seq data to completely investigate the spatial pattern across the full scRNA-seq dataset (greedy mapping).
 ### Input files
