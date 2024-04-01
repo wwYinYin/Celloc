@@ -8,7 +8,7 @@ pip install -r requirements.txt
 ```
 ## Datasets
 All datasets used in our paper can be found in:
-
+* The simulated mouse cerebellum and hippocampus can be download from [Cerebellum](https://drive.google.com/file/d/1qfz2T8u3HRG4qdZc9qafcO4aCvjA91Rb/view?usp=share_link) and [Hippocampus](https://drive.google.com/file/d/1Jyd14n-ISc5lF65pnJWLhCCgSkpjtbsr/view?usp=share_link).
 
 ## Tutorial
 Celloc can (1) fill ST spots with suitable number of cells from scRNA-seq to enhance the quality of ST data in terms of resolution and gene expression quantity (regular mapping); (2) assign the spatial location for every cell in scRNA-seq data to completely investigate the spatial pattern across the full scRNA-seq dataset (greedy mapping).
