@@ -14,7 +14,7 @@ All datasets used in our paper can be found in:
 * The DCIS datasets are obtained from [CellTrek](https://github.com/navinlabcode/CellTrek).
 * The scRNA-seq data of myocardial infarction is downloaded from [GSE129175](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE129175).
 * The ST data of myocardial infarction is downloaded from [GSE165857](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE165857).
-
+The way to read all this data has been given in 'Regular_Mapping_SC2ST.ipynb' and 'Greedy_Mapping_SC2ST.ipynb'.
 ## Tutorial
 Celloc can (1) fill ST spots with suitable number of cells from scRNA-seq to enhance the quality of ST data in terms of resolution and gene expression quantity (regular mapping); (2) assign the spatial location for every cell in scRNA-seq data to completely investigate the spatial pattern across the full scRNA-seq dataset (greedy mapping).
 ### Input files
