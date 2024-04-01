@@ -31,3 +31,6 @@ Celloc can (1) fill ST spots with suitable number of cells from scRNA-seq to enh
   ```
   Greedy_Mapping_SC2ST.ipynb
   ```
+
+## Results visualization
+The visualization code for simulated mouse cerebellum and hippocampus in Supplementary Figures 3 and 4 has been given at the end of 'Regular_Mapping_SC2ST.ipynb'.
