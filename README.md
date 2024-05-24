@@ -25,7 +25,7 @@ Celloc can (1) fill ST spots with suitable number of cells from scRNA-seq to enh
 
 ### Regular single-cell-to-spot mapping
   ```
-  Regular_mapping_tutorial
+  Regular_mapping_tutorial/
     --Run_simulated_mouse_cerebellum.ipynb
     --Run_simulated_mouse_hippocampus.ipynb
     --Run_HER2+_with_STsample1.ipynb
@@ -38,7 +38,7 @@ Celloc can (1) fill ST spots with suitable number of cells from scRNA-seq to enh
   ```
 ### Greedy single-cell-to-spot mapping
   ```
-  Greedy_mapping_tutorial
+  Greedy_mapping_tutorial/
     --Run_simulated_mouse_cerebellum.ipynb
     --Run_simulated_mouse_hippocampus.ipynb
     --Run_MI.ipynb
