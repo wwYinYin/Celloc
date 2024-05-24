@@ -46,3 +46,14 @@ Celloc can (1) fill ST spots with suitable number of cells from scRNA-seq to enh
 
 ## Results visualization
 The code and data to reproduce the visualization results in this article are in the folder _Visualization_code_.
+  ```
+  Visulization_code/
+    --metrics_results/
+    --regular_mapping_results/
+    --metrics_results_plot.ipynb
+    --Figure_3_and_S7.ipynb
+    --Figure_4_and_S8_and_S9.ipynb
+    --Figure_5.ipynb
+    --Figure_S3_and_S4.ipynb
+    --Figure_S10.ipynb
+  ```
